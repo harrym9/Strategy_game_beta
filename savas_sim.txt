@@ -1,0 +1,54 @@
+Insan toplam saldiri: 19000, Insan toplam savunma: 18000
+Ork toplam saldiri: 35500, Ork toplam savunma: 20500
+Ork Dovusculeri Savunma Gucu: 12500
+Mizrakcilar Savunma Gucu: 8000
+Varg Binicileri Savunma Gucu: 0
+Troller Savunma Gucu: 0
+Ork Dovusculerine Dagitilan Hasar Yok
+Troller'e Dagitilan Hasar Yok
+Insan toplam saldiri: 19000, Insan toplam savunma: 18000
+Ork toplam saldiri: 35500, Ork toplam savunma: 20500
+Piyade Savunma Gucu: 12000
+Suvari Savunma Gucu: 6000
+Kusatma Makinesi Savunma Gucu: 0
+Okcu Savunma Gucu: 0
+Piyadelere Dagitilan Hasar: 11666.67
+Kalan Piyade: 184
+Suvarilere Dagitilan Hasar: 5833.33
+Kalan Suvariler: 152
+Insan toplam saldiri: 13120, Insan toplam savunma: 11920
+Ork toplam saldiri: 35500, Ork toplam savunma: 20500
+Ork Dovusculeri Savunma Gucu: 12500
+Mizrakcilar Savunma Gucu: 8000
+Varg Binicileri Savunma Gucu: 0
+Troller Savunma Gucu: 0
+Ork Dovusculerine Dagitilan Hasar Yok
+Troller'e Dagitilan Hasar Yok
+Insan toplam saldiri: 13120, Insan toplam savunma: 11920
+Ork toplam saldiri: 35500, Ork toplam savunma: 20500
+Piyade Savunma Gucu: 7360
+Suvari Savunma Gucu: 4560
+Kusatma Makinesi Savunma Gucu: 0
+Okcu Savunma Gucu: 0
+Piyadelere Dagitilan Hasar: 14625.46
+Kalan Piyade: 38
+Suvarilere Dagitilan Hasar: 9093.54
+Kalan Suvariler: 77
+Insan toplam saldiri: 4990, Insan toplam savunma: 3830
+Ork toplam saldiri: 35500, Ork toplam savunma: 20500
+Ork Dovusculeri Savunma Gucu: 12500
+Mizrakcilar Savunma Gucu: 8000
+Varg Binicileri Savunma Gucu: 0
+Troller Savunma Gucu: 0
+Ork Dovusculerine Dagitilan Hasar Yok
+Troller'e Dagitilan Hasar Yok
+Insan toplam saldiri: 4990, Insan toplam savunma: 3830
+Ork toplam saldiri: 35500, Ork toplam savunma: 20500
+Piyade Savunma Gucu: 1520
+Suvari Savunma Gucu: 2310
+Kusatma Makinesi Savunma Gucu: 0
+Okcu Savunma Gucu: 0
+Piyadelere Dagitilan Hasar: 12593.77
+Kalan Piyade: 0
+Suvarilere Dagitilan Hasar: 19194.23
+Kalan Suvariler: 0
